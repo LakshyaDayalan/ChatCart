@@ -1,5 +1,5 @@
 # ChatCart
-     The purpose of an AI shopping chatbot project is to develop a conversational
+The purpose of an AI shopping chatbot project is to develop a conversational
 interface that can assist users in their shopping experience with an e-commerce
 platform or online store. The project scope includes designing a user-friendly
 interface for the chatbot, implementing natural language processing algorithms to
@@ -12,7 +12,7 @@ performance are also within the scope of the project. The ultimate goal of the p
 is to provide a seamless and efficient shopping experience for users while increasing
 conversion rates and revenue for the e-commerce platform or online store.
 
-     In addition to the above aspects, the scope of an AI shopping chatbot project
+In addition to the above aspects, the scope of an AI shopping chatbot project
 may also include incorporating features such as order tracking, returns and refund
 processing, and customer feedback collection. The chatbot should be able to handle
 various customer queries simultaneously and provide personalized responses based
